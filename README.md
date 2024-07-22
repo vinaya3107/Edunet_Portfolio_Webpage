@@ -1,4 +1,4 @@
-# CodeAlpha-Internship-webdevelopment
+# Edunet-Internship-webdevelopment
 
 Welcome to my Web Development Internship Portfolio! This portfolio showcases three projects I have developed during my internship, demonstrating my skills in web development.
 
